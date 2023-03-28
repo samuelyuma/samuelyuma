@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sykxyz&label=Profile%20views&color=3584e4&style=flat" alt="sykxyz" /> </p>
 
-- 🎓 I’m currently studying at **Institut Teknologi Sepuluh Nopember**
+- 🎓  I’m currently studying at **Institut Teknologi Sepuluh Nopember**
 
 - 🖱️ I’m currently learning **javascript and C++**
 
