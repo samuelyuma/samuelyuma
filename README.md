@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sykxyz&label=Profile%20views&color=3584e4&style=flat" alt="sykxyz" /> </p>
 
-- 🏫 I’m currently studying on **Institut Teknologi Sepuluh Nopember**
+- 🏫 I’m currently studying at **Institut Teknologi Sepuluh Nopember**
 
 - 🌱 I’m currently learning **javascript and C++**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **samuelyuma.117@gmail.com**
 
-- ⚡ Fun fact **I addicted to sleep a lot.**
+- ⚡ Fun fact: **I addicted to sleep a lot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
