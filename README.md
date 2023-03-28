@@ -1,6 +1,5 @@
 <h1 align="center">Hello World! 👋 I'm Samuel Yuma</h1>
 <h3 align="center">First year student with interest in UI/UX design, and web development.</h3>
-<img align="center" alt="Coding" width="600px" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sykxyz&label=Profile%20views&color=3584e4&style=flat" alt="sykxyz" /> </p>
 
