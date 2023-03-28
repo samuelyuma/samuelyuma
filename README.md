@@ -11,7 +11,7 @@
 
 - 📝 I also write articles on [https://medium.com/@samuelyuma.117](https://medium.com/@samuelyuma.117)
 
-- 📫 How to reach me **samuelyuma.117@gmail.com**
+- 📫 How to reach me: **samuelyuma.117@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
