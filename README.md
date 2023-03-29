@@ -5,7 +5,7 @@
 
 - 🎓  I’m currently studying at **Institut Teknologi Sepuluh Nopember**
 
-- 💻 I am currently majoring in **Information Technology**
+- 💻 I am majoring **Information Technology**
 
 - 🖱️ I’m currently learning **javascript and C++**
 
