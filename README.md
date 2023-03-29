@@ -5,9 +5,9 @@
 
 - 🎓  I’m currently studying at **Institut Teknologi Sepuluh Nopember**
 
-- 🖱️ I’m currently learning **javascript and C++**
-
 - 💻 I am currently majoring in **Information Technology**
+
+- 🖱️ I’m currently learning **javascript and C++**
 
 - 📝 I also write articles on [https://medium.com/@samuelyuma.117](https://medium.com/@samuelyuma.117)
 
