@@ -1,11 +1,8 @@
 <h1 align="center">Hello World! I'm Samuel Yuma 👋</h1>
-<h3 align="center">First year student with interest in UI/UX design and web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sykxyz&label=Profile%20views&color=3584e4&style=flat" alt="sykxyz" /> </p>
 
 - 🎓  I’m currently studying **Information Technology** at **Institut Teknologi Sepuluh Nopember**
-
-- 🖱️ I’m currently learning **javascript and C++**
 
 - 📫 How to reach me: **samuelyuma.117@gmail.com**
 
