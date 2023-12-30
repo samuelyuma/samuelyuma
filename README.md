@@ -1,8 +1,8 @@
 # Hello World! 👋
 
-<img src="https://komarev.com/ghpvc/?username=sykxyz&label=Profile%20views&color=3584e4&style=flat" alt="sykxyz" />
+<p align="left"><img src="https://komarev.com/ghpvc/?username=sykxyz&label=Profile%20views&color=3584e4&style=flat" alt="sykxyz" /></p>
 
-**I'm Yuma (he/him)** - I'm a Information Technology student at Sepuluh Nopember Institute of Technology. I'm interested in fullstack web development.
+**I'm Yuma (he/him)** - An Undergraduate Information Technology student at Sepuluh Nopember Institute of Technology. I'm interested in fullstack web development.
 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,js,nodejs,vue,nuxt,react,tailwind,figma)](https://skillicons.dev)<br/>
 
