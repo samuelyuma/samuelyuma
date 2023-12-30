@@ -5,7 +5,7 @@
 **I'm Yuma (he/him)**
 - An Undergraduate Information Technology student at Sepuluh Nopember Institute of Technology.
 - Interested in fullstack web development.
-- Currently working in [INI LHO ITS! 2024](https://inilho.its.ac.id/) 
+- Currently working on [INI LHO ITS! 2024](https://inilho.its.ac.id/) 
 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,js,nodejs,vue,nuxt,react,tailwind,figma)](https://skillicons.dev)<br/>
 
