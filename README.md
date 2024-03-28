@@ -12,6 +12,6 @@
 <details>
   <summary>Github Stats ⚡</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=samuelyuma&theme=github_dark&count_private=false&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelyuma&layout=compact&theme=github_dark&count_private=false&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=samuelyuma&theme=github_dark&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelyuma&layout=compact&theme=github_dark&count_private=true&hide_border=true)</a>
 </details>
