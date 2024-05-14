@@ -7,7 +7,7 @@
 - Interested in fullstack web development.
 - Currently working on [FUTUREST](https://futurest.id/) 
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,nodejs,vue,nuxt,react,tailwind,figma)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=py,html,css,js,ts,nodejs,vue,nuxt,react,tailwind,figma)](https://skillicons.dev)<br/>
 
 <details>
   <summary>Github Stats ⚡</summary>
