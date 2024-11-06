@@ -6,12 +6,6 @@
 - An Undergraduate Information Technology student at Sepuluh Nopember Institute of Technology.
 - Interested in fullstack web development.
 
-[![SkillIcons](https://skillicons.dev/icons?i=py,html,css,js,ts,nodejs,vue,nuxt,react,tailwind,figma,golang,postgres,docker)](https://skillicons.dev)<br/>
-
-<details>
-  <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=samuelyuma&theme=github_dark&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelyuma&layout=compact&theme=github_dark&count_private=true&hide_border=true)</a>
-  <a href="#">![Github streaks](https://streak-stats.demolab.com/?user=samuelyuma&theme=tokyonight-duo&hide_border=true)</a>
-</details>
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=samuelyuma&theme=github_dark&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelyuma&layout=compact&theme=github_dark&count_private=true&hide_border=true)</a>
+<a href="#">![Github streaks](https://streak-stats.demolab.com/?user=samuelyuma&theme=tokyonight-duo&hide_border=true)</a>
