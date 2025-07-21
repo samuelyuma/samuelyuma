@@ -2,9 +2,9 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sykxyz&label=Profile%20views&color=3584e4&style=flat" alt="sykxyz" /></p>
 
-- 🔭 I'm currently working as freelance frontend engineer (open for new projects)
-- 🌱 I’m currently learning about golang for backend development
-- 🎓 I'm an Information Technology student at Institut Teknologi Sepuluh Nopember (ITS)
+- 🎓 Information Technology student at Institut Teknologi Sepuluh Nopember (ITS)
+- 🔭 Currently working as freelance frontend engineer (open for new projects)
+- 🌱 Currently learning about golang for backend development
 - 🐧 I use Arch, btw
 
 ## 🛠️ Tech Stack
