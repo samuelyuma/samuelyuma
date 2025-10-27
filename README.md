@@ -4,8 +4,8 @@
 
 - 🎓 Information Technology student at Institut Teknologi Sepuluh Nopember (ITS)
 - 🔭 Currently working as freelance frontend engineer (open for new projects)
-- 🌱 Currently learning about golang for backend development
-- 🐧 I use Arch, btw
+- 🌱 Currently learning about Golang for backend development
+- 🐧 Have an interest in Software Engineering, DevOps, and IT Infrastructure
 
 ## 🛠️ Tech Stack
 
