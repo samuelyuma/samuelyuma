@@ -9,7 +9,7 @@
 
 ## 🛠️ Tech Stack
 
-[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,tailwind,ts,react,next,remix,express,elysia,prisma,mysql,postgres,mongo)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,tailwind,ts,react,next,remix,express,elysia,prisma,mysql,postgres,mongo,python,go,docker,githubactions)](https://skillicons.dev)
 
 
 ## 📊 Statistics
